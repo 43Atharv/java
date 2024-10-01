@@ -54,7 +54,7 @@ class Employee extends Person{
 class InheritanceTest{
 	public static void main(String args[]){
 	Employee E1=new Employee();
-	E1.empid="22Uai134";
+	E1.empid="22Uai137";
 	E1.salary=600000;
 	E1.calculateTax();
 	E1.bday=13;
